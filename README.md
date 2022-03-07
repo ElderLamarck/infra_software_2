@@ -3,7 +3,7 @@ Atividade para obtenção de nota parcial da cadeira "Infraestrutura de Software
 
 ## Como clonar o repositório:
 ```bash
-$ git clone https://github.com/ElderLamarck/Infra_software.git
+$ git clone https://github.com/ElderLamarck/infra_software_2.git
 $ cd Infra_software
 ```
 
